@@ -18,9 +18,6 @@ Improve the performance of your Unity Android and iOS games with practical optim
 - [Object Pooling](object-pooling.md)
 - [Draw Call Optimization](draw-call-optimization.md)
 - [Memory Management](memory-management.md)
-- [Texture Compression](texture-compression.md)
-- [UI Optimization](ui-optimization.md)
-- [Performance Checklist](performance-checklist.md)
   
 ## Who Is This For?
 
